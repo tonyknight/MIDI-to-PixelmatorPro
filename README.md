@@ -19,3 +19,5 @@ Commerical products like LoupeDeck do not support Pixelmator Pro, but similar fu
 7.  Add new macros for each knob you want to control
 8.  MIDI tab pads can also be used to trigger actions in Pixelmator Pro. Study the PixelMator Pro Applescript Dictionary to the functionality you might want to map to these buttons.
 9.  Enjoy!
+
+![KM-Config](https://github.com/tonyknight/MIDI-to-PixelmatorPro/blob/main/KeyboardMaestro_Config.jpg)
