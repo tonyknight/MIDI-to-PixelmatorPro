@@ -5,8 +5,8 @@ Commerical products like LoupeDeck do not support Pixelmator Pro, but similar fu
 
 # Requirments
 
-1. Keyboard Maestro is required as a bridge to handle incoming MIDI data. If might be possible to use other bridges, but this works well, and KM has a ton of other uses.
-2. Standard MIDI compatible keyboard. It ested this script with an Arturia Minilab MKII, but any MIDI compatible device should do. Ideally best to use one that has 8 or more knobs and touch pad buttons.
+1. Keyboard Maestro is required as a bridge to handle incoming MIDI data. It might be possible to use other bridges, but this works well, and KM has a ton of other uses.
+2. Standard MIDI compatible keyboard. I tested this script with an Arturia Minilab MKII, but any MIDI compatible device should do. Ideally best to use one that has 8 or more knobs and touch pad buttons.
 
 # Usage
 
